@@ -1,0 +1,7 @@
+DEPENDENCIES
+  filehandiling
+    path: .
+    metadata: true
+
+GRAPH
+  filehandiling (0.1.0)
